@@ -1,6 +1,14 @@
 # basketSpringBoot
 
-Explanation of endpoints in BasketController.java
+#### Dependencies
+JDK 1.8 or later
+Gradle 4+
+
+#### Screen recordings:
+Showing implementation: https://www.dropbox.com/s/pjvvp5nzn6qxlk2/workingImplementaitonUsingPostman.mp4?dl=0
+Showing tests: https://www.dropbox.com/s/au4l6lxdawdlrvg/runningTests.mp4?dl=0
+
+#### Explanation of endpoints in BasketController.java
 
 @PostMapping("/baskets")
     • Usage: create new basket
